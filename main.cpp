@@ -11,7 +11,7 @@ int main (int argc, char **argv )
 
   printf ( "i = %d\n", i);
 
-  j = i + K_CONSTANT + i;
+  j = i + K_CONSTANT;
 
   printf ( "j = %d\n", j);
 
